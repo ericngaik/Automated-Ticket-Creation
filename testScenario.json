@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-05-01 13:00",
+        "messageContent": "Hi, I have a problem",
+        "telFrom": "000000"
+      },
+      {
+        "date": "2023-05-01 13:01",
+        "messageContent": "My neighbours are very noisy can you tell them to stop?",
+        "telFrom": "111111"
+      },
+      {
+        "date": "2023-05-01 13:02",
+        "messageContent": "I have no more hot water since yesterday",
+        "fileUrl": "fileUrl",
+        "telFrom": "000000"
+      }
+]
